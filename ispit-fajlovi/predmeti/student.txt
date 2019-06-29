@@ -1,0 +1,10 @@
+laza,123,0
+Objektno-orijentisano programiranje (8)
+Uvod u programiranje (8)
+Engleski 1 (3)
+Poslovne aplikacije (3)
+Matematicka analiza (8)
+Osnovi racunarskih sistema (8)
+Engleski 2 (3)
+Softverske komponente (6)
+Modelovanje i simulacija (6)

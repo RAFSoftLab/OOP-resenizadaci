@@ -1,0 +1,7 @@
+Lazar;Jelic;Obilicev venac 5/5;ljelic17@raf.rs;123,321,456;posao
+Deda;Mraz;Kralja Milana 6/6;dmraz17@raf.rs;011,021,037,036;porodica
+Cak;Noris;27. marta 7;cnoris16@raf.rs;901,208;posao
+Fak;Noris;26. marta 8;fnoris16@raf.rs;991;posao
+Baka;Mraz;Ljubice Lukovic 1;bmraz15@raf.rs;000,999,555;porodica
+James;Bond;Studentska 2;jbond18@raf.rs;567,346;prijatelji
+Tebra;Desi;7 sprat i mrak u stanu;abcd@gmail.com;492,868;prijatelji

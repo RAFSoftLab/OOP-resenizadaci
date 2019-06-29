@@ -1,0 +1,7 @@
+Supa;rucak;250.0
+Rostilj;rucak;400.0
+Giros;vecera;556.7
+Sladoled;dorucak;150.1
+Jabuka;vecera;15.5
+Kobasica;vecera;999.9
+Jogurt;dorucak;99.5

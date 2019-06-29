@@ -1,0 +1,56 @@
+A
+Rusija-Saudijska Arabija,5:0
+Egipat-Urugvaj,0:1
+Rusija-Egipat,3:1
+Urugvaj-Saudijska Arabija,1:0
+Saudijska Arabija-Egipat,2:1
+Urugvaj-Rusija,3:0
+B
+Moroko-Iran,0:1
+Portugal-Spanija,3:3
+Portugal-Moroko,1:0
+Iran-Spanija,0:1
+Iran-Portugal,1:1
+Spanija-Moroko,2:2
+C
+Francuska-Australija,2:1
+Peru-Danska,0:1
+Danska-Australija,1:1
+Francuska-Peru,1:0
+Danska-Francuska,0:0
+Australija-Peru,0:2
+D
+Argentina-Island,1:1
+Hrvatska-Nigerija,2:0
+Argentina-Hrvatska,0:3
+Nigerija-Island,2:0
+Island-Hrvatska,1:2
+Nigerija-Argentina,1:2
+E
+Kostarika-Srbija,0:1
+Brazil-Svajcarska,1:1
+Brazil-Kostarika,2:0
+Srbija-Svajcarska,1:2
+Srbija-Brazil,0:2
+Svajcarska-Kostarika,2:2
+F
+Nemacka-Meksiko,0:1
+Svedska-Juzna Koreja,1:0
+Nemacka-Svedska,2:1
+Juzna Koreja-Meksiko,1:2
+Meksiko-Svedska,0:3
+Juzna Koreja-Nemacka,2:0
+G
+Belgija-Panama,3:0
+Tunis-Engleska,1:2
+Engleska-Panama,6:1
+Belgija-Tunis,5:2
+Engleska-Belgija,0:1
+Panama-Tunis,1:2
+H
+Kolumbija-Japan,1:2
+Poljska-Senegal,1:2
+Japan-Senegal,2:2
+Poljska-Kolumbija,0:3
+Senegal-Kolumbija,0:1
+Japan-Poljska,0:1

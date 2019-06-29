@@ -1,0 +1,5 @@
+Milan;Mijic;1991;Bulevar Mihajla Pupina 11/3;Novi Beograd;student;2015-03-21;
+Petar;Petrovic;1998;Bulevar Nikole Tesle 3/11;Novi Beograd;student;2017-04-12;
+Mica;Ubica;1995;Makedonska 123;Beograd;zaposlen;2022-12-19;
+Marko;Jankovic;1997;Takovska 8;Beograd;penzioner;2018-06-18;
+Jelena;Asdfic;1998;Bulevar Deda Mraza 99;Krusevac;zaposlen;2017-10-03;

@@ -1,0 +1,11 @@
+Podaci o kupcu:
+La Zar Budva 192837 666.0
+Podaci o jelima:
+Sladoled 150.1
+Jogurt 99.5
+Supa 250.0
+Rostilj 400.0
+Giros 556.7
+Jabuka 15.5
+Kobasica 999.9
+Ukupno za placanje: 2471.7

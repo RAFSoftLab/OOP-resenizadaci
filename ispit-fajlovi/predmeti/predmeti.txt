@@ -1,0 +1,11 @@
+Objektno-orijentisano programiranje,1,true,8
+Uvod u programiranje,1,true,8
+Engleski 1,1,true,3
+Poslovne aplikacije,1,true,3
+Matematicka analiza,1,true,8
+Osnovi racunarskih sistema,1,true,8
+Engleski 2,1,true,3
+Skript jezici,3,false,6
+Softverske komponente,3,false,6
+Web programiranje,3,false,6
+Modelovanje i simulacija,3,false,6
